@@ -1,2 +1,2 @@
 # Algoritma_Struktur_Data
-C++
+Sistem Penjualan Tiket Pesawat (Tanpa Input)
